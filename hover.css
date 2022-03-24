@@ -1,0 +1,13 @@
+.menu a:hover {
+    background-color: white;
+    border-radius: 10px;
+    color: #114B9D;
+    height: 40px;
+    font-size: 16px;
+    transition: .5s;
+    line-height: 40px;
+    opacity: 1;
+}
+
+
+
